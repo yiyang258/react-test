@@ -1,0 +1,9 @@
+.title{
+    font-size: 50px;
+    color: gold;
+    font-weight: 500;
+}
+.content{
+    background-color: aquamarine;
+    line-height: 10;
+}
